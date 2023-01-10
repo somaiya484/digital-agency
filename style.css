@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* navbar style */
+.nav-container{
+    display: flex;
+    padding: 5px;
+    justify-content: space-around;
+    background-color: #9B9898;
+    color: white;
+}
+.items{
+    display: flex;
+    list-style: none;
+}
+.item{
+    text-transform: capitalize;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px;
+    margin-right: 10px;
+}
